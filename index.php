@@ -42,15 +42,13 @@
         
     
         <div class="footer">
-            <h4>&copy SIR SOFT</h4>
-            <p>Maintainance by: Saiful Islam Rasel</p>
-            <p>Server Time : 
-                <?php 
-                    date_default_timezone_set("Asia/Dhaka");
-                    echo date("H:i:sa");
-                ?> 
-            </p>
-        </div>
+    <h4>&copy 2024 All Rights Reserved</h4>
+    <p>Developed by: Star </p>
+    <p>For inquiries: <a href="mailto:contact@domain.com">contact@domain.com</a></p>
+   
+    <p>Powered by: Student Class Attendance Management System</p>
+</div>
+
     </div>
     
 </body>
